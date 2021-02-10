@@ -1,4 +1,26 @@
 <resources>
     <string name="app_name">AndroidERestaurant</string>
     <string name="hello">HelloWorld</string>
+    <string name="firstButton">HelloWorldButButton</string>
+    <string name="toast_content">toast_content string</string>
+    <string name="starter">Entrée</string>
+    <string name="mainDish">Plat</string>
+    <string name="dessert">Dessert</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <string name="total">Total</string>
+    <string name="basket_validation">Votre plat a bien été ajouté au panier</string>
+    <string name="basket">Panier</string>
+
+    <string name="order">Passer commande</string>
+    <string name="quantity">Quantité :</string>
+
+    <string name="registrationTitle">Création de votre compte</string>
+    <string name="firstname">Prénom</string>
+    <string name="lastname">Nom</string>
+    <string name="email">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="register">Créer votre compte</string>
+
+    <string name="login">Se connecter</string>
 </resources>
